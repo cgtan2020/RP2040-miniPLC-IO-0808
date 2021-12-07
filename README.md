@@ -1,4 +1,9 @@
 # RP2040-miniPLC-IO-0808
+========================
+<p align="center">
+  <img src="https://raw.githubusercontent.com/micropython/micropython/master/logo/upython-with-micro.jpg" alt="MicroPython Logo"/>
+</p>
+
 RP2040 based miniPLC with 8 Digital Input and Output, I2C, SDCard Support, PWM, RS232, RS485 and Analogue Input
 
 1. 07-Dec-2021 Updated sample python code to demo the board capabilities
