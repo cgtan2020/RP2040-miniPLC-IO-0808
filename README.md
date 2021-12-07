@@ -1,7 +1,7 @@
 # RP2040-miniPLC-IO-0808
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cgtan2020/RP2040-miniPLC-IO-0808/RP2040-IO-0808.jpg" alt="MicroPython Logo"/>
+  <img src="https://raw.githubusercontent.com/cgtan2020/RP2040-miniPLC-IO-0808/main/micropython/tcos/RP2040-IO-0808.jpg" alt="MicroPython Logo"/>
 </p>
 
 RP2040 based miniPLC with 8 Digital Input and Output, I2C, SDCard Support, PWM, RS232, RS485 and Analogue Input
