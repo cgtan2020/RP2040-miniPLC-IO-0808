@@ -3,7 +3,7 @@ RP2040 based miniPLC with 8 Digital Input and Output, I2C, SDCard Support, PWM, 
 
 1. 07-Dec-2021 Updated sample python code to demo the board capabilities
 
-pwm.py - High Speed PWM using PIO functions of the RP2040
+pwm.py - High Speed PWM using PIO functions of the RP2040\n\r
 sd_fat.py - FAT files access to SDCard using SPI functions
 sd_rawtest.py - RAW access to SDCard using SPI functions.
 RS232.py - Write and Read from RS232 port
